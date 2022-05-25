@@ -1,2 +1,2 @@
-# mlops-zoomcamp
+# Mlops Zoomcamp
 MLOps Zoomcamp course
